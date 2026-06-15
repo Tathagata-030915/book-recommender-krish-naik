@@ -1,6 +1,5 @@
 # Data - never commit raw data to git
-data/raw/
-data/processed/
+data/
 
 # Python
 __pycache__/
